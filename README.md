@@ -1,11 +1,15 @@
-<h1 align="center">Netflix com React</h1>
+<h1 align="center">
+    <img alt="Netflix Logo" src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png" height="100px"/>
+    <br />
+  React
+</h1>
 
-<p align="center">Esse Projeto foi feito a partir de varios outros projetos</p>
+<p align="center">Esse projeto foi criado a partir de um vídeo do youtube.</p>
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
-  <a href="#layout">Layout</a> •
-  <a href="#layout">Layout</a> •
+  <a href="#projeto">Projeto</a> •
+  <a href="#tecnologias">Tecnologias</a> •
 </p>
 
 ---
@@ -13,34 +17,37 @@
 <br>
 
 ### Sobre
+Tava sem nada pra fazer, porque não aprender React né?
 
-O projeto foi criado com o intuito de desenvolver a interface da Netflix, com o propósito de aprendizado. O desafio foi por meio de uma [Imersão](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda), nela nos desenvolvíamos a interface da Netflix, foi feito no dia 01 de março de 2022 e nesse dia estava estudando sobre React e decidi pôr em prática essa criação para estudo mais profundo das funcionalidades e como o React funciona. Por já ter uma certa experiencia com HTML , CSS e JavaScript eu acabei entendendo muito sobre a aula, porem também tinha muitas coisas novas e desafiadoras no caminho, foi uma experiencia muito boa e fiquei mais curioso sobre o React e irei cada vez mais me aprofundar sobre o assunto. 
-
-<br>
-
-### Layout
-
-<p>O padrão do DigiSpark é vir no Layout EUA, por causa disso acaba tendo alguns problemas na hora da digitação de código por conta do Lagout ser ABNT2, e o [Gadotti](https://github.com/Gadotti)que criou um repositorio para corrigir esse erro.</p> 
-
-<h1 align="center">DigiSpark BR</h1>
-
-<p align="center">Esse Projeto foi feito a partir de varios outros projetos</p>
-
-<p align="center">
-  <a href="#sobre">Sobre</a> •
- <a href="#layout">Layout</a> •
-</p>
-
----
+O projeto foi criado com o intuito de desenvolver a interface da Netflix, com o propósito de aprendizado. O desafio foi por meio de uma [Imersão](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda), nela nos desenvolvíamos a interface da Netflix, foi feito no dia 01 de março de 2022 e nesse dia estava estudando sobre React e decidi pôr em prática essa criação para estudo mais profundo das funcionalidades e como o React funciona. Por já ter uma certa experiencia com HTML , CSS e JavaScript eu acabei entendendo muito sobre a aula, porém também tinha muitas coisas novas e desafiadoras no caminho, foi uma experiencia muito boa e fiquei mais curioso sobre o React e irei cada vez mais me aprofundar sobre o assunto. 
 
 <br>
 
-### Sobre
+### Projeto
 
-Projeto criado apenas para a junção e correção de alguns projetos de DigiSpark, como a maioria está em lagout dos EUA, criei esse repositorio para guardar todos os Scripts que eu traduzir.
+Recriei a interface principal da Netflix, com React. Pretendo ir fazendo atualizações com o passar do tempo em que vou estudando React, foi bem tranquilo de fazer e achei que o código fica mais “limpo”.
+As imagens dos filmes e APIS incluídos nesse projeto foram retiradas do site [The Movie Database – TMDb.](https://www.themoviedb.org/?language=pt-BR)
+Todos os direitos de imagens para Netflix, projeto feito apenas para estudo. 
 
-<br>
+<br />
 
-### Layout
+<div align="center">
+  
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/89918568/156274650-cd0b149f-d556-42e2-a736-a2d6a40814c5.gif)
+  
+  <br />
+  
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89918568/156275859-80b165fa-dc37-4ac6-b54c-8e3add3da8d5.gif)
 
-<p>O padrão do DigiSpark é vir no Layout EUA, por causa disso acaba tendo alguns problemas na hora da digitação de código por conta do Lagout ser ABNT2, e o [Gadotti](https://github.com/Gadotti)que criou um repositorio para corrigir esse erro.</p> 
+</div>
+
+### Tecnologias
+
+
+<br />
+
+<div align="center"> 
+   <a href="https://instagram.com/u_danillu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/danillo-fonseca-0b51b3214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://github.com/udanillu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>  
