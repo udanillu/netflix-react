@@ -4,17 +4,11 @@
   React
 </h1>
 
-<p align="center">Esse projeto foi criado a partir de um vídeo do youtube.</p>
-
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#projeto">Projeto</a> •
-  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#tecnologias">Tecnologias</a> 
 </p>
-
----
-
-<br>
 
 ### Sobre
 Tava sem nada pra fazer, porque não aprender React né?
