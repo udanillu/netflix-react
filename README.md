@@ -1,6 +1,5 @@
 <h1 align="center">
     <img alt="Netflix Logo" src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png" height="100px"/>
-    <br />
   React
 </h1>
 
@@ -23,7 +22,7 @@ Recriei a interface principal da Netflix, com React. Pretendo ir fazendo atualiz
 As imagens dos filmes e APIS incluídos nesse projeto foram retiradas do site [The Movie Database – TMDb.](https://www.themoviedb.org/?language=pt-BR)
 Todos os direitos de imagens para Netflix, projeto feito apenas para estudo. 
 
-<br />
+<br>
 
 <div align="center">
   
@@ -35,7 +34,10 @@ Todos os direitos de imagens para Netflix, projeto feito apenas para estudo.
 
 </div>
 
-### Tecnologias
+<br>
 
-<br />
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/udanillu" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-00243c?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/udanillu/"/>
+  </a>
+</p>
