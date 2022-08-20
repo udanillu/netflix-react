@@ -10,7 +10,6 @@
 </p>
 
 ### Sobre
-Tava sem nada pra fazer, porque não aprender React né?
 
 O projeto foi criado com o intuito de desenvolver a interface da Netflix, com o propósito de aprendizado. O desafio foi por meio de uma [Imersão](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda), nela nos desenvolvíamos a interface da Netflix, foi feito no dia 01 de março de 2022 e nesse dia estava estudando sobre React e decidi pôr em prática essa criação para estudo mais profundo das funcionalidades e como o React funciona. Por já ter uma certa experiencia com HTML , CSS e JavaScript eu acabei entendendo muito sobre a aula, porém também tinha muitas coisas novas e desafiadoras no caminho, foi uma experiencia muito boa e fiquei mais curioso sobre o React e irei cada vez mais me aprofundar sobre o assunto. 
 
