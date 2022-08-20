@@ -7,7 +7,6 @@
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#projeto">Projeto</a> •
-  <a href="#tecnologias">Tecnologias</a> 
 </p>
 
 ### Sobre
