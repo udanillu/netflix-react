@@ -1,5 +1,6 @@
 <h1 align="center">
     <img alt="Netflix Logo" src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png" height="100px"/>
+    <br>
   React
 </h1>
 
